@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Nicholas Crouch",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Nick",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Nicholas Crouch",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/advantagebrokers/buyerstrategycall",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Their biggest fear was having to submit a conditional offer dependent on selling their current home first, which would make them uncompetitive against the existing buyer",
         "Time was against them—they needed to act fast to trigger the first refusal scenario, but they hadn't even listed their home yet",
         "The pressure was crushing: risk losing their forever home by waiting, or rush into an offer they couldn't confidently back up"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"We are so incredibly happy to finally be in the house we've always wanted. When we found this place, we thought there was no way we could get it—it already had an accepted offer and we hadn't even sold our home yet. But Nick had a plan for everything. The fact that we paid less than the asking price and beat out another buyer who was willing to pay more? We still can't believe it happened. This is our forever home, and we're raising our growing family here because Nick showed us how to win without compromising.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765901044526-GetMedia (2).jpeg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -99,7 +97,8 @@ const config = {
         "<strong>CLOSED IN JUST 30 DAYS</strong> with minimal conditions—no sale contingency needed",
         "Secured a 4-bedroom, 3-bathroom detached home with 1,800 sq ft, finished basement, and the large lot with greenery they'd been dreaming about",
         "Won their forever home in a competitive situation that most buyers would have walked away from, proving that preparation and strategy trump desperation every time"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -108,7 +107,8 @@ const config = {
         "<strong>Planning beats panic every time.</strong> This family won because we started strategizing months before they needed to act—when the right property appeared, we executed flawlessly while other buyers would still be scrambling",
         "<strong>Conditional offers aren't deal-killers if you engineer the conditions out in advance.</strong> By pricing and preparing their current home strategically, we removed the sale contingency and made them the strongest buyer in the room",
         "<strong>In today's market, creative terms can beat higher prices.</strong> The winning move wasn't offering more money—it was offering faster closing, fewer conditions, and more certainty to the seller"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -120,24 +120,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://onereal.ca/pages/privacy-policy"
+    },
     "logo": {
       "src": "https://app.salesgenius.co/api/user-images/128b0146-47e4-45d6-851a-c24a311aebab?v=3cedb1cc0ec5266e82c958210c3477335c03b6d82eccc39b9dd46ef0dfe6b13c"
+    },
+    "secondaryLogo": {
+      "src": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Real Broker LTD",
     "brokerageAddress": "5-2000 Thurston Drive Ottawa, ON K1G 4K7",
-    "secondaryLogo": {
-      "src": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://onereal.ca/pages/privacy-policy"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-512"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
