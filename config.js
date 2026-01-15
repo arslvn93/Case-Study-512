@@ -72,9 +72,6 @@ const config = {
         "Leveraged the vacant status of the dream home to negotiate a 30-day close, which actually benefited the sellers while making our offer more attractive than the existing higher-priced one",
         "Positioned our clients as the better-prepared version of the first buyer: same profile, superior execution"
       ],
-      "testimonial": {
-        "quote": "\"\"We are so incredibly happy to finally be in the house we've always wanted. When we found this place, we thought there was no way we could get it—it already had an accepted offer and we hadn't even sold our home yet. But Nick had a plan for everything. The fact that we paid less than the asking price and beat out another buyer who was willing to pay more? We still can't believe it happened. This is our forever home, and we're raising our growing family here because Nick showed us how to win without compromising.\"\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
