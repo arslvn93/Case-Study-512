@@ -30,7 +30,7 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How a Growing Family Secured Their Forever Home at $10,000 Below Asking—Without Selling Their Current Home First",
+      "title": "How a Growing Family Secured Their Forever Home at $10,000 Below Asking, Without Selling Their Current Home First",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765901037386-GetMedia.jpeg"
       },
