@@ -11,7 +11,7 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "6138065116"
+            "value": "(613) 8065-116"
           }
         ]
       }
@@ -36,8 +36,8 @@ const config = {
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "This repeat client family came back to us six years after we helped them buy their first home from the developer. Now expecting their third child, they'd outgrown their space and needed something bigger—but they faced a challenge that stops most buyers dead in their tracks: they found their dream home before their current house was even on the market.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>PURCHASED $10,000 BELOW ASKING PRICE</strong> at $765,000 (listed at $775,000). <strong>BEAT OUT A HIGHER COMPETING OFFER</strong> that already had an accepted right of first refusal in place. <strong>CLOSED IN JUST 30 DAYS</strong> with minimal conditions—no sale contingency needed. Secured a 4-bedroom, 3-bathroom detached home with 1,800 sq ft, finished basement, and the large lot with greenery they'd been dreaming about. Won their forever home in a competitive situation that most buyers would have walked away from, proving that preparation and strategy trump desperation every time"
+        "This repeat client family came back to us six years after we helped them buy their first home from the developer. Now expecting their third child, they'd outgrown their space and needed something bigger - but they faced a challenge that stops most buyers dead in their tracks: they found their dream home before their current house was even on the market.",
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>PURCHASED $10,000 BELOW ASKING PRICE</strong> at $765,000 (listed at $775,000). <strong>BEAT OUT A HIGHER COMPETING OFFER</strong> that already had an accepted right of first refusal in place. <strong>CLOSED IN JUST 30 DAYS</strong> with minimal conditions - no sale contingency needed. Secured a 4-bedroom, 3-bathroom detached home with 1,800 sq ft, finished basement, and the large lot with greenery they'd been dreaming about. Won their forever home in a competitive situation that most buyers would have walked away from, proving that preparation and strategy trump desperation every time"
       ]
     },
     "sidebar": {
@@ -55,9 +55,9 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "They discovered their perfect family home, but it already had an accepted offer with a right of first refusal clause—meaning another buyer was already in position",
+        "They discovered their perfect family home, but it already had an accepted offer with a right of first refusal clause - meaning another buyer was already in position",
         "Their biggest fear was having to submit a conditional offer dependent on selling their current home first, which would make them uncompetitive against the existing buyer",
-        "Time was against them—they needed to act fast to trigger the first refusal scenario, but they hadn't even listed their home yet",
+        "Time was against them - they needed to act fast to trigger the first refusal scenario, but they hadn't even listed their home yet",
         "The pressure was crushing: risk losing their forever home by waiting, or rush into an offer they couldn't confidently back up"
       ],
       "listItems": []
@@ -68,7 +68,7 @@ const config = {
       "paragraphs": [
         "We immediately reverse-engineered the entire transaction, starting with competitive pricing and professional staging for their current home so we could predict exactly when it would sell and for how much",
         "Coordinated closely with their lenders to secure pre-approval terms that gave us maximum flexibility and confidence in our buying power",
-        "Crafted an offer that was strategically stronger where it mattered most—faster closing timeline and fewer conditions—rather than just throwing more money at the problem",
+        "Crafted an offer that was strategically stronger where it mattered most - faster closing timeline and fewer conditions - rather than just throwing more money at the problem",
         "Leveraged the vacant status of the dream home to negotiate a 30-day close, which actually benefited the sellers while making our offer more attractive than the existing higher-priced one",
         "Positioned our clients as the better-prepared version of the first buyer: same profile, superior execution"
       ],
@@ -78,7 +78,7 @@ const config = {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "They didn't hesitate to call us because we'd proven ourselves six years earlier when we helped them buy their first home. They knew this situation required more than just submitting an offer—it demanded a comprehensive strategy that covered every angle. The planning conversations started months before, and when this property appeared, we were ready to move."
+        "They didn't hesitate to call us because we'd proven ourselves six years earlier when we helped them buy their first home. They knew this situation required more than just submitting an offer - it demanded a comprehensive strategy that covered every angle. The planning conversations started months before, and when this property appeared, we were ready to move."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765901044526-GetMedia (2).jpeg"
@@ -91,7 +91,7 @@ const config = {
       "paragraphs": [
         "<strong>PURCHASED $10,000 BELOW ASKING PRICE</strong> at $765,000 (listed at $775,000)",
         "<strong>BEAT OUT A HIGHER COMPETING OFFER</strong> that already had an accepted right of first refusal in place",
-        "<strong>CLOSED IN JUST 30 DAYS</strong> with minimal conditions—no sale contingency needed",
+        "<strong>CLOSED IN JUST 30 DAYS</strong> with minimal conditions, no sale contingency needed",
         "Secured a 4-bedroom, 3-bathroom detached home with 1,800 sq ft, finished basement, and the large lot with greenery they'd been dreaming about",
         "Won their forever home in a competitive situation that most buyers would have walked away from, proving that preparation and strategy trump desperation every time"
       ],
@@ -101,9 +101,9 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "<strong>Planning beats panic every time.</strong> This family won because we started strategizing months before they needed to act—when the right property appeared, we executed flawlessly while other buyers would still be scrambling",
+        "<strong>Planning beats panic every time.</strong> This family won because we started strategizing months before they needed to act - when the right property appeared, we executed flawlessly while other buyers would still be scrambling",
         "<strong>Conditional offers aren't deal-killers if you engineer the conditions out in advance.</strong> By pricing and preparing their current home strategically, we removed the sale contingency and made them the strongest buyer in the room",
-        "<strong>In today's market, creative terms can beat higher prices.</strong> The winning move wasn't offering more money—it was offering faster closing, fewer conditions, and more certainty to the seller"
+        "<strong>In today's market, creative terms can beat higher prices.</strong> The winning move wasn't offering more money - it was offering faster closing, fewer conditions, and more certainty to the seller"
       ],
       "listItems": []
     },
@@ -111,7 +111,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Pre-Market Strategy Session—Discover Exactly How Much Buying Power You Really Have Before You Start Your Search",
+        "headline": "Book Your Pre-Market Strategy Session - Discover Exactly How Much Buying Power You Really Have Before You Start Your Search",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
