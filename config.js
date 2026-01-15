@@ -25,7 +25,7 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How a Growing Family Secured Their Forever Home at $10,000 Below Asking—Without Selling Their Current Home First",
+    "title": "How a Growing Family Secured Their Forever Home at $10,000 Below Asking, Without Selling Their Current Home First",
     "subheadline": "Beat Out a Higher Competing Offer in a Right of First Refusal Situation Through Strategic Planning and Flawless Execution"
   },
   "mainBox": {
